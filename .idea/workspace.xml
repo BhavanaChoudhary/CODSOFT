@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be0ce576-7e0b-40e3-a37b-1aff3bf24491" name="Changes" comment="task0ne done" />
+    <list default="true" id="be0ce576-7e0b-40e3-a37b-1aff3bf24491" name="Changes" comment="taskTwo done">
+      <change afterPath="$PROJECT_DIR$/ATM_INTERFACE/ATM_INTERFACE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATM_INTERFACE/src/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATM_INTERFACE/src/USER_BANK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hwlJ3uCEdx0LtHWxLtvn3DA8JE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATM_INTERFACE.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Number_Game.executor": "Run",
+    "Application.Student_Grade_Calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -54,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718513200260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="taskTwo done">
+      <option name="closed" value="true" />
+      <created>1718513446848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718513446848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task0ne done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task0ne done" />
+    <MESSAGE value="taskTwo done" />
+    <option name="LAST_COMMIT_MESSAGE" value="taskTwo done" />
   </component>
 </project>
