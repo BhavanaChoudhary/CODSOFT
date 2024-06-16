@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ATM_INTERFACE/ATM_INTERFACE.iml" filepath="$PROJECT_DIR$/ATM_INTERFACE/ATM_INTERFACE.iml" />
       <module fileurl="file://$PROJECT_DIR$/CODSOFT_INTERNSHIP.iml" filepath="$PROJECT_DIR$/CODSOFT_INTERNSHIP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number_Game/Number_Game.iml" filepath="$PROJECT_DIR$/Number_Game/Number_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz_Application_With_Timer/Quiz_Application_With_Timer.iml" filepath="$PROJECT_DIR$/Quiz_Application_With_Timer/Quiz_Application_With_Timer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Student_Grade_Calculator/Student_Grade_Calculator.iml" filepath="$PROJECT_DIR$/Student_Grade_Calculator/Student_Grade_Calculator.iml" />
     </modules>
   </component>

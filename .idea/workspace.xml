@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be0ce576-7e0b-40e3-a37b-1aff3bf24491" name="Changes" comment="taskTwo done">
-      <change afterPath="$PROJECT_DIR$/ATM_INTERFACE/ATM_INTERFACE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATM_INTERFACE/src/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATM_INTERFACE/src/USER_BANK.java" afterDir="false" />
+    <list default="true" id="be0ce576-7e0b-40e3-a37b-1aff3bf24491" name="Changes" comment="taskThree done">
+      <change afterPath="$PROJECT_DIR$/Quiz_Application_With_Timer/Quiz_Application_With_Timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Application_With_Timer/src/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_Application_With_Timer/src/Quiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ATM_INTERFACE.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Number_Game.executor": "Run",
-    "Application.Student_Grade_Calculator.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ATM_INTERFACE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number_Game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student_Grade_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718513446848</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="taskThree done">
+      <option name="closed" value="true" />
+      <created>1718521481301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718521481302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task0ne done" />
     <MESSAGE value="taskTwo done" />
-    <option name="LAST_COMMIT_MESSAGE" value="taskTwo done" />
+    <MESSAGE value="taskThree done" />
+    <option name="LAST_COMMIT_MESSAGE" value="taskThree done" />
   </component>
 </project>
